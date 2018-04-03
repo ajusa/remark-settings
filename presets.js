@@ -25,4 +25,5 @@ body.textContent = ""
 remark.create({ratio: '16:9', source: textContent})
 //load fonts and activate them
 document.write("<link href='https://fonts.googleapis.com/css?family=Nunito:300,400,700' rel='stylesheet'>");
-document.write("<style>*{font-family: 'Nunito'}</style>");
+document.write("<link rel='stylesheet' href='https://ajusa.github.io/lit/dist/util.css'>")
+document.write("<style>*{font-family: 'Nunito'} .title{text-align: center; vertical-align: middle;}</style>");

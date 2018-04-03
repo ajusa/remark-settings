@@ -2,7 +2,7 @@
 for slideshows
 
 ```
-class: middle, center
+class: title
 # test
 ---
 # new slide ayy
